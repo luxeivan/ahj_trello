@@ -43,5 +43,8 @@
     "webpack-merge": "^5.7.3"
   },
   "author": "coursar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "push-dir": "^0.4.1"
+  }
 }
