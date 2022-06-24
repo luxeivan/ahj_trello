@@ -161,6 +161,7 @@ export default class Tasks {
             ghostEl = null;
             draggedEl = null;
             tempEl = null;
+            document.querySelector('.tempEl').remove();
         }      
 
         if (itemsEl) {            
